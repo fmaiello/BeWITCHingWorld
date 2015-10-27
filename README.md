@@ -1,3 +1,49 @@
-# BeWITCHingWorld
-ARS 327 Midterm
-file:///C:/Users/Owner/Documents/Fabrizia/Notepad%20HTMLS/ARS%20327%20Midterm/BeWITCHingWorld.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="BeWITCHingWorld.css"/>
+		<script type="text/javascript" src="BeWITCHingWorld.js"></script>
+		<title>BeWITCHingWorld</title>
+		</head>
+			<body>
+				<div id="border1">
+					<div id="border2">
+						<div id="border3">
+							<div class="h1"<h1>Be<span>WITCH</span>ing<span>WORLD</span></h1></div>
+								<p>
+									<div class="h2"<h2>Tune into the Witch!</h2></div>
+										
+											<div class="body">
+												<div id="border4">
+												<div style="position: relative; width: 640px;">
+													<video id=0 controls width=530 height=795>
+														<source src="My Movie.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+														<source src="My Movie.webm" type='video/webm' >
+														<source src="My Movie.mp4" type='video/mp4'>
+															<p>Video is not visible, most likely your browser does not support HTML5 video</p>
+													</video>
+														<a style="font-family: 'Arial'; font-size: 11px; text-decoration: none; position: absolute; color:blue; top: 6px; left: 6px; z-index: 9999;border-style: none; display:none; line-height:8px" href="http://www.freemake.com/">Freemake</a>
+												</div>
+												</div>
+											</div>
+										
+												<div class="upperleft">
+													<img src="catleft.jpg"/>
+												</div>
+												<div class="upperright">
+													<img src="catright.jpg"/>
+												</div>
+												<div class="left">
+													<img src="witchhouse.gif" style="width: 425px; height: 815px; position: absolute; border-radius: 5px;"/>
+												</div>
+												<div class="right">
+													<img src="witchhouse.gif" style="width: 425px; height: 815px; position: absolute; border-radius: 5px;"/>
+												</div>
+										
+
+								</p>
+						</div>
+					</div>
+				</div>
+				</body>
+				</html>
